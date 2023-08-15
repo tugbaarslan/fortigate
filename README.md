@@ -1,5 +1,5 @@
 # FortiGate
-Techcareer Cyber Security Bootcamp Proje Ödevi
+Techcareer Cyber Security Bootcamp Proje Ödevi 1
 İstenilenler:
 VMWare üzerinde Fortigate firewall kurulumu yapınız. (İmaj dosyaları aşağıdadır)
 Fortigate firewall kurulumu sonrasında, Interface menüsünden;  Muhasebe (192.168.10.1/24)
